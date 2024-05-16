@@ -1,0 +1,10 @@
+body{
+background-image: url("https://i.pinimg.com/736x/04/0d/65/040d65a6b9a9406523dcb29270efba71.jpg");
+}
+h1{
+color:black;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+canvas{
+    border-style:ridge;
+}
